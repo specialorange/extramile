@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
+    <!-- <base href="<?php echo BASE_URL ?>"/> -->
 
     <title>FAQ Page - Modern Business - Start Bootstrap Template</title>
 
@@ -17,8 +18,7 @@
   </head>
 
   <body>
-
-  <?php include 'shared/nav.html'; ?>
+    <?php include 'shared/nav.html'; ?>
 
     <div class="container">
 
@@ -183,12 +183,7 @@
 
     </div><!-- /.container -->
 
-    <div class="container">
-
-    <hr>
     <?php include 'shared/footer.html'; ?>
-
-    </div><!-- /.container -->
 
     <!-- Bootstrap core JavaScript -->
     <!-- Placed at the end of the document so the pages load faster -->

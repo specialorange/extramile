@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
+    <!-- <base href="<?php echo BASE_URL ?>"/> -->
 
     <title>About - Extra Mile Vending</title>
 
@@ -17,8 +18,7 @@
   </head>
 
   <body>
-
-  <?php include 'shared/nav.html'; ?>
+    <?php include 'shared/nav.html'; ?>
 
     <div class="container">
 
@@ -62,26 +62,30 @@
             <h4><small>704-564-6004</small></h4>
             <h4><small><a href="mailto:jeff@extramilevending.com">jeff@extramilevending.com</a></small></h4>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
-            <ul class="list-unstyled list-inline list-social-icons">
+<!--
+             <ul class="list-unstyled list-inline list-social-icons">
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
               <li class="tooltip-social google-plus-link"><a href="#google-plus-profile" data-toggle="tooltip" data-placement="top" title="Google+"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
             </ul>
+ -->
         </div>
 
         <div class="col-sm-4">
-          <img class="img-responsive" src="http://placehold.it/750x450">
+          <img class="img-responsive" src="img/people/otis.jpg">
             <h3>Otis Forsythe Jr. <small>Key Accounts Manger</small></h3>
             <h4><small>704-858-4516</small></h4>
             <h4><small><a href="mailto:otis@extramilevending.com">otis@extramilevending.com</a></small></h4>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
-            <ul class="list-unstyled list-inline list-social-icons">
+<!--
+             <ul class="list-unstyled list-inline list-social-icons">
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
               <li class="tooltip-social google-plus-link"><a href="#google-plus-profile" data-toggle="tooltip" data-placement="top" title="Google+"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
             </ul>
+ -->
         </div>
 
         <div class="col-sm-4">
@@ -90,12 +94,14 @@
             <h4><small>&nbsp</small></h4>
             <h4><small><a href="mailto:daniel@extramilevending.com">daniel@extramilevending.com</a></small></h4>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
-            <ul class="list-unstyled list-inline list-social-icons">
+<!--
+             <ul class="list-unstyled list-inline list-social-icons">
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
               <li class="tooltip-social google-plus-link"><a href="#google-plus-profile" data-toggle="tooltip" data-placement="top" title="Google+"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
             </ul>
+ -->
         </div>
 
         <div class="col-sm-4">
@@ -104,12 +110,14 @@
             <h4><small>828-612-5161</small></h4>
             <h4><small><a href="mailto:denny@extramilevending.com">denny@extramilevending.com</a></small></h4>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
-            <ul class="list-unstyled list-inline list-social-icons">
+<!--
+             <ul class="list-unstyled list-inline list-social-icons">
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
               <li class="tooltip-social google-plus-link"><a href="#google-plus-profile" data-toggle="tooltip" data-placement="top" title="Google+"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
             </ul>
+ -->
         </div>
 
         <div class="col-sm-4">
@@ -118,12 +126,14 @@
             <h4><small>704-737-1045</small></h4>
             <h4><small><a href="mailto:josh@extramilevending.com">josh@extramilevending.com</a></small></h4>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
-            <ul class="list-unstyled list-inline list-social-icons">
+<!--
+             <ul class="list-unstyled list-inline list-social-icons">
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
               <li class="tooltip-social google-plus-link"><a href="#google-plus-profile" data-toggle="tooltip" data-placement="top" title="Google+"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
             </ul>
+ -->
         </div>
 
         <div class="col-sm-4">
@@ -132,12 +142,14 @@
             <h4><small>&nbsp</small></h4>
             <h4><small><a href="mailto:melissa@extramilevending.com">melissa@extramilevending.com</a></small></h4>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
-            <ul class="list-unstyled list-inline list-social-icons">
+<!--
+             <ul class="list-unstyled list-inline list-social-icons">
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
               <li class="tooltip-social linkedin-link"><a href="#linkedin-profile" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
               <li class="tooltip-social twitter-link"><a href="#twitter-profile" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
               <li class="tooltip-social google-plus-link"><a href="#google-plus-profile" data-toggle="tooltip" data-placement="top" title="Google+"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
             </ul>
+ -->
         </div>
 
       </div>
@@ -178,12 +190,7 @@
 
     </div><!-- /.container -->
 
-    <div class="container">
-
-    <hr>
     <?php include 'shared/footer.html'; ?>
-
-    </div><!-- /.container -->
 
     <!-- Bootstrap core JavaScript -->
     <!-- Placed at the end of the document so the pages load faster -->

@@ -7,3 +7,6 @@ $('.carousel').carousel({
 $('.tooltip-social').tooltip({
   selector: "a[data-toggle=tooltip]"
 })
+
+// define('BASE_URL', 'http://localhost/sites/extramile'); // for development
+// define('BASE_URL', 'http://extramilevending.com'); // for production

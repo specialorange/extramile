@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
+    <!-- <base href="<?php echo BASE_URL ?>"/> -->
 
     <title>Extra Mile Vending</title>
 
@@ -17,8 +18,7 @@
   </head>
 
   <body>
-
-  <?php include 'shared/nav.html'; ?>
+    <?php include 'shared/nav.html'; ?>
     
     <div id="myCarousel" class="carousel slide">
       <!-- Indicators -->
@@ -26,12 +26,14 @@
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#myCarousel" data-slide-to="1"></li>
           <li data-target="#myCarousel" data-slide-to="2"></li>
+          <li data-target="#myCarousel" data-slide-to="3"></li>
+          <li data-target="#myCarousel" data-slide-to="4"></li>
         </ol>
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
           <div class="item active">
-            <div class="fill" style="background-image:url('http://extramilevending.com/img/4mach.jpg');"></div>
+            <div class="fill" style="background-image:url('img/equip/4mach.jpg');"></div>
             <div class="carousel-caption">
               <h1>Your source for custom vending solutions</h1>
             </div>
@@ -39,13 +41,25 @@
           <div class="item">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
             <div class="carousel-caption">
-              <h1>Ready to Style &amp; Add Content</h1>
+              <h1>Picture of Vending Equipment Set Up</h1>
             </div>
           </div>
           <div class="item">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
             <div class="carousel-caption">
-              <h1>Additional Layout Options at <a href="http://startbootstrap.com">http://startbootstrap.com</a></h1>
+              <h1>Picture of an Arcade Location set up</h1>
+            </div>
+          </div>
+          <div class="item">
+            <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Four');"></div>
+            <div class="carousel-caption">
+              <h1>Logos for Charities (Will have to get approval to use logos first)</a></h1>
+            </div>
+          </div>
+          <div class="item">
+            <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Five');"></div>
+            <div class="carousel-caption">
+              <h1>We go the Extra Mile for all your vending needs!</h1>
             </div>
           </div>
         </div>
@@ -82,132 +96,9 @@
 
     </div><!-- /.section -->
 
-    <div class="section-colored text-center">
+    <!-- Deleted from template -->
 
-      <div class="container">
-
-        <div class="row">
-          <div class="col-lg-12">
-            <h2>Modern Business: A Clean &amp; Simple Full Website Template by Start Bootstrap</h2>
-            <p>A complete website design featuring various single page templates from Start Bootstraps library of free HTML starter templates.</p>
-            <hr>
-          </div>
-        </div><!-- /.row -->
-
-      </div><!-- /.container -->
-
-    </div><!-- /.section-colored -->
-
-    <div class="section">
-
-      <div class="container">
-
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2>Display Some Work on the Home Page Portfolio</h2>
-            <hr>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6">
-            <a href="portfolio-item.html"><img class="img-responsive img-home-portfolio" src="http://placehold.it/700x450"></a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6">
-            <a href="portfolio-item.html"><img class="img-responsive img-home-portfolio" src="http://placehold.it/700x450"></a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6">
-            <a href="portfolio-item.html"><img class="img-responsive img-home-portfolio" src="http://placehold.it/700x450"></a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6">
-            <a href="portfolio-item.html"><img class="img-responsive img-home-portfolio" src="http://placehold.it/700x450"></a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6">
-            <a href="portfolio-item.html"><img class="img-responsive img-home-portfolio" src="http://placehold.it/700x450"></a>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6">
-            <a href="portfolio-item.html"><img class="img-responsive img-home-portfolio" src="http://placehold.it/700x450"></a>
-          </div>
-        </div><!-- /.row -->
-
-      </div><!-- /.container -->
-
-    </div><!-- /.section -->
-
-    <div class="section-colored">
-
-      <div class="container">
-
-        <div class="row">
-          <div class="col-lg-6 col-md-6 col-sm-6">
-            <h2>Modern Business Features Include:</h2>
-            <ul>
-              <li>Bootstrap 3 Framework</li>
-              <li>Mobile Responsive Design</li>
-              <li>Predefined File Paths</li>
-              <li>Working PHP Contact Page</li>
-              <li>Minimal Custom CSS Styles</li>
-              <li>Unstyled: Add Your Own Style and Content!</li>
-              <li>Font-Awesome fonts come pre-installed!</li>
-              <li>100% <strong>Free</strong> to Use</li>
-              <li>Open Source: Use for any project, private or commercial!</li>
-            </ul>
-          </div>
-          <div class="col-lg-6 col-md-6 col-sm-6">
-            <img class="img-responsive" src="http://placehold.it/700x450/ffffff/cccccc">
-          </div>
-        </div><!-- /.row -->
-
-      </div><!-- /.container -->
-
-    </div><!-- /.section-colored -->
-
-    <div class="section">
-
-      <div class="container">
-
-        <div class="row">
-          <div class="col-lg-6 col-md-6 col-sm-6">
-            <img class="img-responsive" src="http://placehold.it/700x450">
-          </div>
-          <div class="col-lg-6 col-md-6 col-sm-6">
-            <h2>Modern Business Features Include:</h2>
-            <ul>
-              <li>Bootstrap 3 Framework</li>
-              <li>Mobile Responsive Design</li>
-              <li>Predefined File Paths</li>
-              <li>Working PHP Contact Page</li>
-              <li>Minimal Custom CSS Styles</li>
-              <li>Unstyled: Add Your Own Style and Content!</li>
-              <li>Font-Awesome fonts come pre-installed!</li>
-              <li>100% <strong>Free</strong> to Use</li>
-              <li>Open Source: Use for any project, private or commercial!</li>
-            </ul>
-          </div>
-        </div><!-- /.row -->
-
-      </div><!-- /.container -->
-
-    </div><!-- /.section -->
-
-    <div class="container">
-
-      <div class="row well">
-        <div class="col-lg-8 col-md-8">
-          <h4>'Modern Business' is a ready-to-use, Bootstrap 3 updated, multi-purpose HTML theme!</h4>
-          <p>For more templates and more page options that you can integrate into this website template, visit Start Bootstrap!</p>
-        </div>
-        <div class="col-lg-4 col-md-4">
-          <a class="btn btn-lg btn-primary pull-right" href="http://startbootstrap.com">See More Templates!</a>
-        </div>
-      </div><!-- /.row -->
-
-    </div><!-- /.container -->
-
-    <div class="container">
-
-    <hr>
     <?php include 'shared/footer.html'; ?>
-
-
-    </div><!-- /.container -->
 
     <!-- Bootstrap core JavaScript -->
     <!-- Placed at the end of the document so the pages load faster -->
