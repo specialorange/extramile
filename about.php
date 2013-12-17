@@ -37,7 +37,7 @@
       <div class="row">
 
         <div class="col-md-6">
-          <img class="img-responsive" src="http://placehold.it/750x450">
+          <img class="img-responsive" src="img/logos/emv.jpg">
         </div>
         <div class="col-md-6">
           <h2>Going the Extra Mile</h2>
@@ -77,7 +77,7 @@
             <h3>Otis Forsythe Jr. <small>Key Accounts Manger</small></h3>
             <h4><small>704-858-4516</small></h4>
             <h4><small><a href="mailto:otis@extramilevending.com">otis@extramilevending.com</a></small></h4>
-            <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
+            <p>Otis Forsythe Jr.has been a local Charlotte firefighter for 9 years. As the previous CEO of M<small>&</small>J Vending, he merged with Extra Mile Vending. He is currently finishing his degree in Psychology at Liberty University and been married to his beautiful wife Dee Dee for 13 yrs with two adorable kids, Madison, 9, and Jason, 7.</p>
 <!--
              <ul class="list-unstyled list-inline list-social-icons">
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
@@ -103,13 +103,15 @@
             </ul>
  -->
         </div>
+      </div>
+      <div class="row">
 
         <div class="col-sm-4">
-          <img class="img-responsive" src="http://placehold.it/750x450">
+          <img class="img-responsive" src="img/people/denny.jpg">
             <h3>Denny Blevins <small>New Account Sales Manager</small></h3>
             <h4><small>828-612-5161</small></h4>
             <h4><small><a href="mailto:denny@extramilevending.com">denny@extramilevending.com</a></small></h4>
-            <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
+            <p>Originally from Logan, WV, currently living in Hickory, NC for last 15 years with wife Barbara, daughters Sierra and Riauna, and son Camden. I love sports, NASCAR, traveling, 4 wheeling, and spending time with family. I want to attend a Super Bowl one day.</p>
 <!--
              <ul class="list-unstyled list-inline list-social-icons">
               <li class="tooltip-social facebook-link"><a href="#facebook-profile" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
@@ -156,7 +158,7 @@
 
       <!-- Our Customers -->
 
-      <div class="row">
+<!--       <div class="row">
 
         <div class="col-lg-12">
           <h2 class="page-header">Our Customers</h2>
@@ -186,7 +188,7 @@
         	<img class="img-responsive img-customer" src="http://placehold.it/500x300">
         </div>
 
-      </div>
+      </div> -->
 
     </div><!-- /.container -->
 

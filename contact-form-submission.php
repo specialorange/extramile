@@ -43,9 +43,9 @@ $email_content .= "Message:\n\n$message";
 	
 // send the email
 //ENTER YOUR INFORMATION BELOW FOR THE FORM TO WORK!
-mail ('YOUR-EMAIL-ADDRESS@YOUR-DOMAIN.com', 'YOUR WEBSITE NAME - Contact Form Submission', $email_content, $headers);
+mail ('contact@extramilevending.com', 'Extra Mile Vending - Contact Form Submission', $email_content, $headers);
 	
 // send the user back to the form
-header('Location: contact.html?s='.urlencode('Thank you for your message.')); exit;
+header('Location: contact.php?s='.urlencode('Thank you for contacting us!  We will get back to you within 1 business day.')); exit;
 
 ?>

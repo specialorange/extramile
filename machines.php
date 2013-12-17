@@ -27,7 +27,7 @@
         <div class="col-lg-12">
           <h1 class="page-header">Vending Machines <small>Soda | Snack | Combination | Frozen | Coffee</small></h1>
           <ol class="breadcrumb">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li class="active">Vending Machines</li>
           </ol>
         </div>

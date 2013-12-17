@@ -33,15 +33,15 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
           <div class="item active">
-            <div class="fill" style="background-image:url('img/equip/4mach.jpg');"></div>
+            <div class="fill-small" style="background-image:url('img/logos/emv-wide.jpg');"></div>
             <div class="carousel-caption">
-              <h1>Your source for custom vending solutions</h1>
+              <h1></h1>
             </div>
           </div>
           <div class="item">
-            <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
+            <div class="fill" style="background-image:url('img/equip/4mach.jpg');"></div>
             <div class="carousel-caption">
-              <h1>Picture of Vending Equipment Set Up</h1>
+              <h1>Your source for custom vending solutions</h1>
             </div>
           </div>
           <div class="item">
@@ -79,16 +79,16 @@
 
         <div class="row">
           <div class="col-lg-4 col-md-4">
-            <h3><i class="fa fa-check-circle"></i> Bootstrap 3 Built</h3>
-            <p>The 'Modern Business' website template by <a href="http://startbootstrap.com">Start Bootstrap</a> is built with <a href="http://getbootstrap.com">Bootstrap 3</a>. Make sure you're up to date with latest Bootstrap documentation!</p>
+            <h3><i class="fa fa-puzzle-piece"></i>We help you increase your business profits</h3>
+            <p class="text-justify">By providing vending options to your workplace or business, your employees are away from work for less time, your customers are entertained while they wait, and stay longer!  <a href="contact.php">Contact us</a> today to get a free quote and personlized solutions.</p>
           </div>
           <div class="col-lg-4 col-md-4">
-            <h3><i class="fa fa-pencil"></i> Ready to Style &amp; Edit</h3>
-            <p>You're ready to go with this pre-built page structure, now all you need to do is add your own custom stylings! You can see some free themes over at <a href="http://bootswatch.com">Bootswatch</a>, or come up with your own using <a href="http://getbootstrap.com/customize/">the Bootstrap customizer</a>!</p>
+            <h3><i class="fa fa-cogs"></i>Equipment</h3>
+            <p class="text-justify">We specialize in providing individual small equipment orders and lot purchases and sales.  We have <a href="machines.php">Vending Machines</a> ( Soda Machines, Snack Machines, Combination Machines, Frozen Food Machines, Coffee Machines) and <a href="games.php">Arcade Games</a> ( Racing Games, Bar Games, Crane/Claw Machines, Redemption Games, Merchandisers, Dollar Bill Changers).</p>
           </div>
           <div class="col-lg-4 col-md-4">
-            <h3><i class="fa fa-folder-open"></i> Many Page Options</h3>
-            <p>This template features many common pages that you might see on a business website. Pages include: about, contact, portfolio variations, blog, pricing, FAQ, 404, services, and general multi-purpose pages.</p>
+              <h3><i class="fa fa-money"></i>Specials</h3>
+              <p class="text-justify">Check out our <a href="specials.php">weekly and monthly specials</a>!  We offer discounts to liquidate, promote, and start new business avenues for all of our customers</p>
           </div>
         </div><!-- /.row -->
 

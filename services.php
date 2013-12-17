@@ -36,17 +36,17 @@
 
       </div><!-- /.row -->
 
-      <div class="row">
+<!--       <div class="row">
       
         <div class="col-lg-12">
           <img class="img-responsive" src="http://placehold.it/1200x300">
         </div>
 
-      </div><!-- /.row -->
-
+      </div>
+ -->
       <!-- Service Paragraphs -->
 
-      <div class="row">
+<!--       <div class="row">
 
         <div class="col-md-8">
           <h2 class="page-header">Our Premium Services</h2>
@@ -63,79 +63,95 @@
             <a class="btn btn-primary" href="#">Click Me!</a>
         </div>
 
-      </div><!-- /.row -->
-
+      </div><!-- /.row --> 
+  
       <!-- Service Tabs -->
 
       <div class="row">
 
         <div class="col-lg-12">
-          <h2 class="page-header">Tabbed Services</h2>
           <ul id="myTab" class="nav nav-tabs">
-            <li class="active"><a href="#service-one" data-toggle="tab">Service One</a></li>
-            <li><a href="#service-two" data-toggle="tab">Service Two</a></li>
-            <li><a href="#service-three" data-toggle="tab">Service Three</a></li>
-            <li><a href="#service-four" data-toggle="tab">Service Four</a></li>
-            <li><a href="#service-five" data-toggle="tab">Service Five</a></li>
+            <li class="active"><a href="#service-one" data-toggle="tab">Turn Key <span class="label label-success">Most Popular</span></a></li>
+            <li><a href="#service-two" data-toggle="tab">Commission</a></li>
+            <li><a href="#service-three" data-toggle="tab">Flat Rate</a></li>
+            <li><a href="#service-four" data-toggle="tab">Parts/Service</a></li>
+            <!-- <li><a href="#service-five" data-toggle="tab">Five</a></li> -->
           </ul>
           <div id="myTabContent" class="tab-content">
             <div class="tab-pane fade in active" id="service-one">
-              <i class="fa fa-gear pull-left fa-4x"></i>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam placerat nunc ut tellus tristique, non posuere neque iaculis. Fusce aliquet dui ut felis rhoncus, vitae molestie mauris auctor. Donec pellentesque feugiat leo a adipiscing. Pellentesque quis tristique eros, sed rutrum mauris.</p>
-              <p>Nam fringilla quis enim in eleifend. Suspendisse sed lectus mauris. Nam commodo, arcu et posuere placerat, tellus tortor dignissim eros, sit amet eleifend urna lorem sit amet nulla. Praesent sem nibh, vulputate nec congue eu, dapibus vitae augue. Suspendisse cursus urna sit amet metus porttitor, in pharetra quam feugiat. Etiam tempus euismod nulla eget pellentesque.</p>
+              <div class="col-sm-4">
+                <img class="img-responsive" src="img/services/turnkey.jpg">
+              </div>
+              <!-- <i class="fa fa-key pull-right fa-4x"></i> -->
+              <p class="col-sm-5 text-justify">We will provide a vending machine(s) at no cost to your business.  No commissions are paid to the business but we will give your employees and customers the best price we offer along with the best service in the industry.  Your machines will be stocked regularly and a business card with your route drivers cell phone number along with the owners cell phone number will be placed in machine or at the business's office depending on the type of business.</p>
+              <div class="col-sm-3">
+                <div class="panel panel-default text-center">
+                  <div class="panel-heading">
+                    <strong>Custom</strong>
+                  </div>
+                  <div class="panel-body">
+                    <h3 class="panel-title price">$CU<span class="price-cents">st</span><span class="price-month">om</span></h3>
+                  </div>
+                  <ul class="list-group">
+                    <li class="list-group-item">Vending machines</li>
+                    <li class="list-group-item">Arcade Games</li>
+                    <li class="list-group-item">Maintenance programs</li>
+                    <li class="list-group-item">Product orders</li>
+                    <!-- <li class="list-group-item">Security Suite</li> -->
+                    <li class="list-group-item">Contact us now!<br><a class="btn btn-primary">(704) 564-6004</a></li>
+                  </ul>
+                </div>          
+              </div>
             </div>
             <div class="tab-pane fade" id="service-two">
-              <i class="fa fa-gears pull-left fa-4x"></i>
-              <p>Nam fringilla quis enim in eleifend. Suspendisse sed lectus mauris. Nam commodo, arcu et posuere placerat, tellus tortor dignissim eros, sit amet eleifend urna lorem sit amet nulla. Praesent sem nibh, vulputate nec congue eu, dapibus vitae augue. Suspendisse cursus urna sit amet metus porttitor, in pharetra quam feugiat. Etiam tempus euismod nulla eget pellentesque.</p>
-              <p>Vestibulum laoreet molestie urna ac vehicula. Phasellus laoreet semper ipsum ac gravida. Sed in varius tortor. Nullam blandit in neque quis aliquet. Fusce volutpat pellentesque sem non convallis. Suspendisse sit amet magna pulvinar, gravida mauris eu, tincidunt massa. Nam lectus mi, viverra non quam nec, mollis malesuada dolor. Vivamus hendrerit nunc interdum turpis egestas, a lobortis odio consequat. Fusce posuere purus quis ligula faucibus lacinia. Curabitur sit amet congue dolor. Duis dapibus hendrerit nunc et gravida. Phasellus mollis, lectus quis ornare aliquam, arcu orci posuere lectus, vehicula bibendum sem ante quis lacus.</p>
+              <div class="col-sm-4">
+                <img class="img-responsive" src="img/services/commission.jpg">
+              </div>
+              <!-- <i class="fa fa-gears pull-left fa-4x"></i> -->
+              <p class="text-justify">We will provide a vending machine or vending machines at no cost to your business. Commissions are paid to the business but prices will reflect these commissions.  Minimum volume required and reviewed for any businesses requesting commissions.  Commission checks will be cut quarterly.  As always, this comes along with the best service in the industry.  Your machines will be stocked regularly and a business card with your route drivers cell phone number along with the owners cell phone number will be placed in machine or at the business's office depending on the type of business.</p>
             </div>
             <div class="tab-pane fade" id="service-three">
-              <i class="fa fa-magic pull-left fa-4x"></i>
-              <p>Vestibulum laoreet molestie urna ac vehicula. Phasellus laoreet semper ipsum ac gravida. Sed in varius tortor. Nullam blandit in neque quis aliquet. Fusce volutpat pellentesque sem non convallis. Suspendisse sit amet magna pulvinar, gravida mauris eu, tincidunt massa. Nam lectus mi, viverra non quam nec, mollis malesuada dolor. Vivamus hendrerit nunc interdum turpis egestas, a lobortis odio consequat. Fusce posuere purus quis ligula faucibus lacinia. Curabitur sit amet congue dolor. Duis dapibus hendrerit nunc et gravida. Phasellus mollis, lectus quis ornare aliquam, arcu orci posuere lectus, vehicula bibendum sem ante quis lacus.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam placerat nunc ut tellus tristique, non posuere neque iaculis. Fusce aliquet dui ut felis rhoncus, vitae molestie mauris auctor. Donec pellentesque feugiat leo a adipiscing. Pellentesque quis tristique eros, sed rutrum mauris.</p>
+              <div class="col-sm-4">
+                <img class="img-responsive" src="img/services/flatrate.jpg">
+              </div>
+              <!-- <i class="fa fa-magic pull-left fa-4x"></i> -->
+              <p class="text-justify">We will provide a vending machine or vending machines at no cost to your business. We will offer products at a discounted rate as determined by the business owner and will invoice the business monthly for the difference.  This is a great option for businesses looking to reward employees. As always, this comes along with the best service in the industry.  Your machines will be stocked regularly and a business card with your route drivers cell phone number along with the owners cell phone number will be placed in machine or at the business's office depending on the type of business.</p>
             </div>
             <div class="tab-pane fade" id="service-four">
-              <i class="fa fa-flask pull-left fa-4x"></i>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam placerat nunc ut tellus tristique, non posuere neque iaculis. Fusce aliquet dui ut felis rhoncus, vitae molestie mauris auctor. Donec pellentesque feugiat leo a adipiscing. Pellentesque quis tristique eros, sed rutrum mauris.</p>
-              <p>Nam fringilla quis enim in eleifend. Suspendisse sed lectus mauris. Nam commodo, arcu et posuere placerat, tellus tortor dignissim eros, sit amet eleifend urna lorem sit amet nulla. Praesent sem nibh, vulputate nec congue eu, dapibus vitae augue. Suspendisse cursus urna sit amet metus porttitor, in pharetra quam feugiat. Etiam tempus euismod nulla eget pellentesque.</p>
+              <div class="col-sm-4">
+                <img class="img-responsive" src="img/services/repair.jpg">
+              </div>
+              <!-- <i class="fa fa-gear pull-left fa-4x"></i> -->
+              <div class="col-sm-5">              
+                <p class="text-justify">Let us help take care our your vending machines.  Don't lose money while your machines are not working.  Call Extra Mile Vending and we will look at them for you.  We even offer loaner machines if the machine requires parts that need to be ordered and can't be found locally.  Service calls: Greater Charlotte area:  $75 + the cost of parts.</p>
+                <p class="text-justify">We also repair machines at our main warehouse in Concord.  Bring your machine to us and we'll repair it for you or we'll take it in on trade for a newer machine!</p>
+                <p class="text-justify">We do house calls for arcade games too!  $75 + the cost of parts.</p>
+              </div>
+              <div class="col-sm-3">
+                <div class="panel panel-default text-center">
+                  <div class="panel-heading">
+                    <strong>Service Calls</strong>
+                  </div>
+                  <div class="panel-body">
+                    <h3 class="panel-title price">$75<span class="price-cents">00</span><span class="price-month">+ parts</span></h3>
+                  </div>
+                  <ul class="list-group">
+                    <li class="list-group-item">Service Calls</li>
+                    <li class="list-group-item">House Calls</li>
+                    <li class="list-group-item">Arcade Service</li>
+                    <li class="list-group-item">Schedule Now! <br><a class="btn btn-primary">(704) 564-6004</a></li>
+                  </ul>
+                </div>          
+              </div>
             </div>
-            <div class="tab-pane fade" id="service-five">
+
+<!--             <div class="tab-pane fade" id="service-five">
               <i class="fa fa-flag pull-left fa-4x"></i>
               <p>Nam fringilla quis enim in eleifend. Suspendisse sed lectus mauris. Nam commodo, arcu et posuere placerat, tellus tortor dignissim eros, sit amet eleifend urna lorem sit amet nulla. Praesent sem nibh, vulputate nec congue eu, dapibus vitae augue. Suspendisse cursus urna sit amet metus porttitor, in pharetra quam feugiat. Etiam tempus euismod nulla eget pellentesque.</p>
               <p>Vestibulum laoreet molestie urna ac vehicula. Phasellus laoreet semper ipsum ac gravida. Sed in varius tortor. Nullam blandit in neque quis aliquet. Fusce volutpat pellentesque sem non convallis. Suspendisse sit amet magna pulvinar, gravida mauris eu, tincidunt massa. Nam lectus mi, viverra non quam nec, mollis malesuada dolor. Vivamus hendrerit nunc interdum turpis egestas, a lobortis odio consequat. Fusce posuere purus quis ligula faucibus lacinia. Curabitur sit amet congue dolor. Duis dapibus hendrerit nunc et gravida. Phasellus mollis, lectus quis ornare aliquam, arcu orci posuere lectus, vehicula bibendum sem ante quis lacus.</p>
             </div>
+ -->
           </div>
-        </div>
-
-      </div><!-- /.row -->
-
-      <!-- Service Images -->
-
-      <div class="row">
-
-        <div class="col-lg-12">
-          <h2 class="page-header">Service Images</h2>
-        </div>
-
-        <div class="col-sm-4">
-          <img class="img-responsive" src="http://placehold.it/750x450">
-          <h3>Service One</h3>
-          <p>Service one description. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst.</p>
-          <a class="btn btn-link btn-sm pull-right">More <i class="fa fa-angle-right"></i></a>
-        </div>
-
-        <div class="col-sm-4">
-          <img class="img-responsive" src="http://placehold.it/750x450">
-          <h3>Service Two</h3>
-          <p>Service two description. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst.</p>
-          <a class="btn btn-link btn-sm pull-right">More <i class="fa fa-angle-right"></i></a>
-        </div>
-
-        <div class="col-sm-4">
-          <img class="img-responsive" src="http://placehold.it/750x450">
-          <h3>Service Three</h3>
-          <p>Service three description. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst.</p>
-          <a class="btn btn-link btn-sm pull-right">More <i class="fa fa-angle-right"></i></a>
         </div>
 
       </div><!-- /.row -->

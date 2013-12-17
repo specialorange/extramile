@@ -26,7 +26,7 @@
         <div class="col-lg-12">
           <h1 class="page-header">Gaming Machines <small><a href="#arcade">Arcade Games</a> | <a href="#racing">Racing Games</a> | <a href="#bar">Bar Games</a> | <a href="craneclaw">Crane/Claw Machines</a> | <a href="#redemption">Redemption Games</a> | <a href="#merchandiser">Merchandisers</a> | <a href="bill">Dollar Bill Changers</a></small></h1>
           <ol class="breadcrumb">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li class="active">Gaming Machines</li>
           </ol>
         </div>

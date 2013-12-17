@@ -1,10 +1,6 @@
-/* 
-Custom CSS for...
-'Modern Business' HTML Theme by Start Bootstrap
-
-All Start Bootstrap themes are licensed under Apache 2.0. 
-For more info and more free Bootstrap 3 HTML themes, visit http://startbootstrap.com!
-*/
+.text-justify {
+  text-align: justify;
+}
 
 /* Global Styles */
 
@@ -55,6 +51,13 @@ body {
 .active,
 .carousel-inner {
   height: 100%;
+}
+
+.fill-small {
+  /*margin: 15px;*/
+  height: 100%;
+  background-position: center;
+  background-size: contain;
 }
 
 .fill {
