@@ -57,9 +57,9 @@
             </div>
           </div>
           <div class="item">
-            <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Five');"></div>
+            <div class="fill" style="background-image:url('img/specials/specials_banner.jpg');"></div>
             <div class="carousel-caption">
-              <h1>We go the Extra Mile for all your vending needs!</h1>
+              <h1>Check out our specials!</h1>
             </div>
           </div>
         </div>
