@@ -1,3 +1,15 @@
+.row-padded {
+  padding: 5px;
+}
+
+.fill-small {
+  /*margin: 15px;*/
+  height: 100%;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 .text-justify {
   text-align: justify;
 }
@@ -51,13 +63,6 @@ body {
 .active,
 .carousel-inner {
   height: 100%;
-}
-
-.fill-small {
-  /*margin: 15px;*/
-  height: 100%;
-  background-position: center;
-  background-size: contain;
 }
 
 .fill {

@@ -26,20 +26,20 @@
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#myCarousel" data-slide-to="1"></li>
           <li data-target="#myCarousel" data-slide-to="2"></li>
-          <li data-target="#myCarousel" data-slide-to="3"></li>
+          <!-- <li data-target="#myCarousel" data-slide-to="3"></li> -->
           <li data-target="#myCarousel" data-slide-to="4"></li>
         </ol>
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
           <div class="item active">
-            <div class="fill-small" style="background-image:url('img/logos/emv-wide.jpg');"></div>
+            <div class="fill-small" style="background-image:url('img/logos/emv.jpg');"></div>
             <div class="carousel-caption">
               <h1></h1>
             </div>
           </div>
           <div class="item">
-            <div class="fill" style="background-image:url('img/equip/4mach.jpg');"></div>
+            <div class="fill" style="background-image:url('img/equip/2mach.jpg');"></div>
             <div class="carousel-caption">
               <h1>Your source for custom vending solutions</h1>
             </div>
@@ -50,17 +50,18 @@
               <h1>Picture of an Arcade Location set up</h1>
             </div>
           </div>
-          <div class="item">
+<!--           <div class="item">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Four');"></div>
             <div class="carousel-caption">
               <h1>Logos for Charities (Will have to get approval to use logos first)</a></h1>
             </div>
           </div>
+ -->
           <div class="item">
+            <a href="specials.php">
             <div class="fill" style="background-image:url('img/specials/specials_banner.jpg');"></div>
-            <div class="carousel-caption">
-              <h1>Check out our specials!</h1>
-            </div>
+            <div class="carousel-caption"></div>
+            </a>
           </div>
         </div>
 
